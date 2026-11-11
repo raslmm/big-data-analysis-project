@@ -1,0 +1,15 @@
+*.pdf
+Project Handout - Copy.pdf
+metadata.pdf
+__pycache__/
+lib/
+lib64/
+.cache
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+.env
+.venv
+tmp/
+*.tmp
+*.joblib
+.vscode/
